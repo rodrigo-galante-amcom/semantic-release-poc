@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-poc",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "semantic-release poc amcom",
   "main": "index.js",
   "dependencies": {

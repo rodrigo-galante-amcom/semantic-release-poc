@@ -11,6 +11,10 @@
 
 # Tipos de commit
 
+** Semantic Verion - Estrutura ** 
+
+ - Exemplo: V1.0.0 (Major, Minor, Patch)
+
 ** Prefixos **
 - Commit com o prefixo - feat (Minor Feature release)
 
